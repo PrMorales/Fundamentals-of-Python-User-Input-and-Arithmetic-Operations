@@ -13,3 +13,29 @@ Practice:
 ## 🧮 Formula
 Fahrenheit = Celsius × 1.8 + 32
 
+## ▶️ How to Run
+
+### 1. Requirements
+- Python 3 installed
+
+Check your Python version:
+
+```bash
+python --version
+```
+### 2. Run the Script
+
+Navigate to the project directory and execute the script:
+
+```bash
+python converter.py
+```
+
+### 3. Example Usage
+
+> **Console Output:**
+> ```text
+> Enter temperature in Celsius: 25
+> 25.0°C is equal to 77.0°F
+> ```
+
