@@ -36,6 +36,6 @@ python converter.py
 > **Console Output:**
 > ```text
 > Enter temperature in Celsius: 25
-> 25.0°C is equal to 77.0°F
+> 77.0°F
 > ```
 
